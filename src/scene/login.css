@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#loginimg{
+   background-image: url('https://source.unsplash.com/random/?computers');
+   background-repeat: no-repeat;
+   height: 100vh;
+   background-size: cover;
+   width: 70vw !important;
+}
